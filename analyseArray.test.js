@@ -1,4 +1,4 @@
-import { analyseArray } from './analuseArray.js';
+import { analyseArray } from './analyseArray.js';
 
 const a1 = [1];
 const output1 = analyseArray(a1);
